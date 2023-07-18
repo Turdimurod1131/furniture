@@ -1,2 +1,3 @@
 # furniture
 # gitdiscover
+# furnitures
